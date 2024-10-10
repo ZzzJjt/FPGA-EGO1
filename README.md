@@ -1,3 +1,4 @@
 # FPGA-EGO1
+![33356](https://github.com/user-attachments/assets/59e48cd8-602a-4ec9-a88c-0a7358117da8)
 
-![33356](https://github.com/user-attachments/assets/0b612564-5b4e-47f1-a48b-a09f7c2d096f)
+
